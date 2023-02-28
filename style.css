@@ -337,6 +337,10 @@ body.overflow {
   color: var(--darkGrayishBlue);
 }
 
+.attribution  {
+  justify-content: center;
+  text-align: center;
+}
 
 @media screen and (min-width: 36rem) {
   .overflow {
@@ -390,6 +394,7 @@ body.overflow {
   .navbar__links > li:hover {
     transform: scale(1.03);
   }
+  
 }
 
 @media screen and (min-width: 70.625rem) {
@@ -484,10 +489,5 @@ body.overflow {
 
   .news2-notes {
     max-width: 14.125rem;
-  }
-
-  .attribution  {
-    justify-content: center;
-    text-align: center;
   }
 }
