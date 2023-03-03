@@ -21,4 +21,4 @@ Main obstacle was going through each detail of the design on both desktop and mo
 
 ### What I gained
 
-Enhanced skills in HTMl, CSS, and JavaScript and developed a keen eye for details.
+Enhanced skills in HTML, CSS, and JavaScript and developed a keen eye for details.
