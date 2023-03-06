@@ -5,15 +5,15 @@
 ### Overview
 
 The task was to build a news homepage as close to the original design as possible  
-using any front-end technologies necessary
+using any front-end technologies necessary.
 
-Collaboration within challenge platform for critique and review
+Community collaboration within challenge platform for critique and review.
 
-Resulting in using HTML, CSS, and JavaScript languages
+Programming languages that were used were HTML, CSS, and JavaScript.
 
-Utilized Figma for wireframing and design mockup
+Utilized Figma for wireframing and design mockup.
 
-Implemented clean code for structure using Visual Studio Code
+Implemented clean code for structure using Visual Studio Code.
 
 ### Obstacles
 
