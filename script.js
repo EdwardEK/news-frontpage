@@ -9,16 +9,6 @@ navbarBtn.addEventListener("click", function () {
   console.log("click");
 });
 
-// link click event
-navBarSingleLink.addEventListener("click", function (e) {
-  e.stopPropagation();
-  // test console.log(e.target.nodeName);
-  if (e.target.nodeName === "A") {
-    clicked();
-    // test console.log(e.target);
-  }
-});
-
 function clicked() {
   let value = navigation.classList.contains("navbar__collapse");
 
@@ -34,5 +24,4 @@ function clicked() {
     opaqueLayer.classList.add("navbar__collapse");
     body.classList.add("overflow");
     console.log("add class");
-  }
-}
+  }}; 
