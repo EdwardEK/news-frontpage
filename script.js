@@ -24,4 +24,5 @@ function clicked() {
     opaqueLayer.classList.add("navbar__collapse");
     body.classList.add("overflow");
     console.log("add class");
-  }}; 
+  }
+}; 
